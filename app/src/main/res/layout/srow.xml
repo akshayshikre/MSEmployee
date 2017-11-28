@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:id="@+id/chatlayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:clickable="true"
+        android:focusable="true"
+        android:orientation="vertical"
+        android:paddingLeft="8dp"
+        android:paddingRight="8dp"
+        android:paddingTop="4dp">
+
+        <ImageView
+            android:id="@+id/imageView3"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_marginRight="4dp"
+            app:srcCompat="@drawable/highschool" />
+
+        <TextView
+            android:id="@+id/sname"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@id/imageView3"
+            android:gravity="center"
+            android:text="School title"
+            android:textAllCaps="true"
+            android:textColor="@color/colorPrimary"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/princiname"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@id/imageView3"
+            android:layout_below="@id/sname"
+            android:text="Principal name"
+            android:textColor="@color/colorAccent"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/princino"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_below="@id/sname"
+            android:text="Principal No."
+            android:textColor="@color/colorAccent"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/sempname"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@id/imageView3"
+            android:layout_below="@id/princiname"
+            android:text="Emp Name"
+            android:textColor="@color/title"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/sempdatetime"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_below="@id/princino"
+            android:text="Emp Date Time"
+            android:textColor="@color/title"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/sreq"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@id/imageView3"
+            android:layout_below="@+id/sempname"
+            android:text="School Requirements"
+            android:textColor="@color/year"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/sarea"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_below="@id/sempdatetime"
+            android:text="School Area Name"
+            android:textColor="@color/year"
+            android:textSize="14sp" />
+    </RelativeLayout>
+
+</LinearLayout>

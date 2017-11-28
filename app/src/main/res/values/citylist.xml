@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="citylist">
+        <item>All</item>
+        <item>Pune</item>
+        <item>Mumbai</item>
+    </string-array>
+
+</resources>

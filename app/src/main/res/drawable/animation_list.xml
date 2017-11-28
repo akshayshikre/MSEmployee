@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="true">
+     <item android:drawable="@drawable/frame_00a" android:duration="120" />
+     <item android:drawable="@drawable/frame_01a" android:duration="120" />
+          <item android:drawable="@drawable/frame_02a" android:duration="120" />
+        <item android:drawable="@drawable/frame_03a" android:duration="120" />
+        <item android:drawable="@drawable/frame_04a" android:duration="120" />
+        <item android:drawable="@drawable/frame_05a" android:duration="120" />
+        <item android:drawable="@drawable/frame_06a" android:duration="120" />
+        <item android:drawable="@drawable/frame_07a" android:duration="120" />
+        <item android:drawable="@drawable/frame_08a" android:duration="120" />
+        <item android:drawable="@drawable/frame_09a" android:duration="120" />
+        <item android:drawable="@drawable/frame_10a" android:duration="120" />
+         <item android:drawable="@drawable/frame_11a" android:duration="120" />
+       <item android:drawable="@drawable/frame_12a" android:duration="120" />
+       <item android:drawable="@drawable/frame_13a" android:duration="120" />
+       <item android:drawable="@drawable/frame_14a" android:duration="120" />
+       <item android:drawable="@drawable/frame_15a" android:duration="120" />
+           <item android:drawable="@drawable/frame_16a" android:duration="120" />
+          <item android:drawable="@drawable/frame_17a" android:duration="120" />
+            <item android:drawable="@drawable/frame_18a" android:duration="120" />
+           <item android:drawable="@drawable/frame_19a" android:duration="120" />
+              <item android:drawable="@drawable/frame_20" android:duration="120" />
+               <item android:drawable="@drawable/frame_21" android:duration="120" />
+               <item android:drawable="@drawable/frame_22" android:duration="120" />
+               <item android:drawable="@drawable/frame_23" android:duration="120" />
+               <item android:drawable="@drawable/frame_24" android:duration="120" />
+               <item android:drawable="@drawable/frame_25" android:duration="120" />
+               <item android:drawable="@drawable/frame_26" android:duration="120" />
+               <item android:drawable="@drawable/frame_27" android:duration="120" />
+               <item android:drawable="@drawable/frame_28" android:duration="120" />
+               <item android:drawable="@drawable/frame_29" android:duration="120" />
+               <item android:drawable="@drawable/frame_30" android:duration="120" />
+               <item android:drawable="@drawable/frame_31" android:duration="120" />
+               <item android:drawable="@drawable/frame_32" android:duration="120" />
+               <item android:drawable="@drawable/frame_33" android:duration="120" />
+               <item android:drawable="@drawable/frame_34" android:duration="120" />
+               <item android:drawable="@drawable/frame_35" android:duration="120" />
+               <item android:drawable="@drawable/frame_36" android:duration="120" />
+               <item android:drawable="@drawable/frame_37" android:duration="120" />
+               <item android:drawable="@drawable/frame_38" android:duration="120" />
+               <item android:drawable="@drawable/frame_39" android:duration="120" />
+               <item android:drawable="@drawable/frame_40" android:duration="120" />
+               <item android:drawable="@drawable/frame_41" android:duration="120" />
+               <item android:drawable="@drawable/frame_42" android:duration="120" />
+               <item android:drawable="@drawable/frame_43" android:duration="120" />
+               <item android:drawable="@drawable/frame_44" android:duration="120" />
+
+
+
+</animation-list>
