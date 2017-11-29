@@ -3,21 +3,84 @@
 
     <item
         is-multidex="false"
-        jar="C:\Users\akash\.android\build-cache\20019d021ea03a0ef762deb58a1d302ceaa28ad4\output\jars\classes.jar"
+        jar="C:\Users\akash\.android\build-cache\d1ed0fa46276693de972bfb64284a7a8d2370e98\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.2"
-        sha1="41f47bbcd281fdb1e42e220220ab3bfa1da591e0">
-        <dex dex="C:\Users\akash\Desktop\crmbrm\Android Project\app\build\intermediates\pre-dexed\debug\classes_0b23b87d1dfc0bc724d2ce8d71dfe463eefa1596.jar" />
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\akash\Desktop\crmbrm\Android Project\app\build\intermediates\pre-dexed\debug\classes_6392fcde21254644a0f1ff04c36c2e2cb3424f69.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\akash\.android\build-cache\8626acb7112708b6e6e28fe86d0956915c221c9c\output\jars\classes.jar"
+        jar="C:\Users\akash\.android\build-cache\048eae163883b16fb8932faf317187ea95aee866\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.2"
         sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
-        <dex dex="C:\Users\akash\Desktop\crmbrm\Android Project\app\build\intermediates\pre-dexed\debug\classes_dd840d8192ac85404af50fb0bc11051304bb00bb.jar" />
+        <dex dex="C:\Users\akash\Desktop\crmbrm\Android Project\app\build\intermediates\pre-dexed\debug\classes_ded16a99deed8aa1ec0e48c5f2c125d73e40107b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\akash\.android\build-cache\520ec0e2ce2c0090daf06a7d075526750c5acb94\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\akash\Desktop\crmbrm\Android Project\app\build\intermediates\pre-dexed\debug\classes_2e9fd94b54a2d4c26dc72fea908c08552dcea8a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\akash\.android\build-cache\675f42ccd28e3684b2c7d70903bde3667adde1e7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\akash\Desktop\crmbrm\Android Project\app\build\intermediates\pre-dexed\debug\classes_692181aad3b7440acd2ca61afc30745b0067196d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\akash\.android\build-cache\51b805f7336c0a3efa18695491689bdaf874cf5d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\akash\Desktop\crmbrm\Android Project\app\build\intermediates\pre-dexed\debug\classes_15a7c121d144cb812a1099a6367bbb2dc9cf30dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\akash\.android\build-cache\5d359713e301cd53834978392cf1ad1e8fd5393e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="41f47bbcd281fdb1e42e220220ab3bfa1da591e0">
+        <dex dex="C:\Users\akash\Desktop\crmbrm\Android Project\app\build\intermediates\pre-dexed\debug\classes_90bbf0a2c28a2bc96e30cf5de744ad75d5aa07c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\akash\.android\build-cache\a3c43fa4f3bafaf9f2802feebeb985e8eb33ed0c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\akash\Desktop\crmbrm\Android Project\app\build\intermediates\pre-dexed\debug\classes_9abbfef2c668fdf2a1cba4441efcfb20af0cfdea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\akash\.android\build-cache\9866a1b56288e620b10291f3a3c439816b1bc4ff\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="C:\Users\akash\Desktop\crmbrm\Android Project\app\build\intermediates\pre-dexed\debug\classes_307ab29f737f1a44b9ef6cf848d282913547b844.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\New folder\Android Softwares\android-sdk_r21.1-windows\android-sdk-windows\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\akash\Desktop\crmbrm\Android Project\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_cdea07699fe7c08535529d3e29462d293199c56b.jar" />
     </item>
     <item
         is-multidex="false"
@@ -30,6 +93,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="C:\Users\akash\.android\build-cache\7c626c0a071302d777c52c83d9afddc698a7c527\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\akash\Desktop\crmbrm\Android Project\app\build\intermediates\pre-dexed\debug\classes_a911eb31d71907cba1a8a60bd2ff9386108299ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="C:\Users\akash\Desktop\crmbrm\Android Project\app\libs\picasso-2.5.2.jar"
         jumboMode="false"
         optimize="true"
@@ -39,30 +111,84 @@
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\akash\.android\build-cache\94ba7fbff5270cd1e92cc57bfd0c64f7771c74a2\output\jars\classes.jar"
+        jar="C:\Users\akash\.android\build-cache\4645b7f613a7e48caab3cacbcfb07a8b833ebbab\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\akash\Desktop\crmbrm\Android Project\app\build\intermediates\pre-dexed\debug\classes_87f4b3aaa0259ced4ab244d1d0f7e50846afbe0b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\akash\.android\build-cache\7548503284965c22942d4e32083737a915777e06\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\akash\Desktop\crmbrm\Android Project\app\build\intermediates\pre-dexed\debug\classes_cbd6dc0ba3bb36676f07c9b73ef653839f190460.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\akash\.android\build-cache\259ed5b64848ba72bb1a6d593398a03e98fed8bf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\akash\Desktop\crmbrm\Android Project\app\build\intermediates\pre-dexed\debug\classes_627467db20329aea41558b564c2e7149a9e2522f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\akash\.android\build-cache\ea9b65be9f7bd0bae9c2635c356f2352b00a1e57\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\akash\Desktop\crmbrm\Android Project\app\build\intermediates\pre-dexed\debug\classes_d660f3ef7720bd6c118fb0e39a03df6b1478ac80.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\akash\.android\build-cache\8b96a2c3ccc6e4357f18ebc26848fb0caebfbc18\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\akash\Desktop\crmbrm\Android Project\app\build\intermediates\pre-dexed\debug\classes_f17f1c6e8e76e7e986a27ca998933338886eb6cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\akash\.android\build-cache\3988b8aad41248a7b4d18aa5861b6151d9fe212c\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.2"
         sha1="2430e711762a749feb00b3d64858ca4768251b9d">
-        <dex dex="C:\Users\akash\Desktop\crmbrm\Android Project\app\build\intermediates\pre-dexed\debug\classes_52986c72aff610c562a4d50dfd3a4821d8f52101.jar" />
+        <dex dex="C:\Users\akash\Desktop\crmbrm\Android Project\app\build\intermediates\pre-dexed\debug\classes_5c46052eac1f7e45bbdb2f8d34587defb96d78f9.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\akash\.android\build-cache\77c9652d2e785b0f5cf3bb6f27b5034704dcd208\output\jars\classes.jar"
+        jar="C:\Users\akash\.android\build-cache\c2d6a101aa9586f4a2bbd873267a6c31c5cbbee0\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.2"
-        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
-        <dex dex="C:\Users\akash\Desktop\crmbrm\Android Project\app\build\intermediates\pre-dexed\debug\classes_218541742e0110e53904527d02662c04619e4fec.jar" />
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="C:\Users\akash\Desktop\crmbrm\Android Project\app\build\intermediates\pre-dexed\debug\classes_7b614b803b6e2e2692d8b924d9afbd48dd4d4d22.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\akash\.android\build-cache\04fcb7632bac291a2ab6ac3773bc6a113e06b705\output\jars\classes.jar"
+        jar="C:\Users\akash\.android\build-cache\65b59b50358ef9ebf4dc6c3be921a95c3f04ebbc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\akash\Desktop\crmbrm\Android Project\app\build\intermediates\pre-dexed\debug\classes_af170861fbec57cfa3415cd76f443db7dc181ad5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\akash\.android\build-cache\6afbe5db79a1bdf5b76fa60280990eb50bb03626\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.2"
         sha1="fcae52a60bc07924d370b4d376116cd8f8581f54">
-        <dex dex="C:\Users\akash\Desktop\crmbrm\Android Project\app\build\intermediates\pre-dexed\debug\classes_4e5fc81339c27f111ebcdcb8ce046d6fc4c2f583.jar" />
+        <dex dex="C:\Users\akash\Desktop\crmbrm\Android Project\app\build\intermediates\pre-dexed\debug\classes_15f04f9ff6663ec22913740262cce7f715182a28.jar" />
     </item>
 
 </items>

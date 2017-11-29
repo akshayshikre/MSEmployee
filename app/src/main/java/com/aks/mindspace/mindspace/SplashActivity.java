@@ -31,7 +31,7 @@ import java.net.URLEncoder;
 public class SplashActivity extends AppCompatActivity {
     SharedPreferences sp;
     ProgressBar spinner;
-    public static final String serverip = "192.168.1.116";
+    public static final String serverip = "192.168.1.117";
     public static final String MyPREFERENCES = "MyPrefs";
     public static final String Name = "nameKey";
     public static final String Phoneno = "noKey";

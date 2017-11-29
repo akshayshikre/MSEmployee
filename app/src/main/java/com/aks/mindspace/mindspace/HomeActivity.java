@@ -236,10 +236,6 @@ public class HomeActivity extends AppCompatActivity
 
         } else if (id == R.id.nav_queries) {
 
-        } else if (id == R.id.nav_mytargets) {
-
-        } else if (id == R.id.nav_maps) {
-
         }
 
 
